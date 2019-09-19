@@ -19,3 +19,6 @@ Choose the latest versions of the dependencies below:
 - NumPy
 - Matplotlib
 
+## License
+
+- MIT. See the LICENSE file for the copyright notice.
