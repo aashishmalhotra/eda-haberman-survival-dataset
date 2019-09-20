@@ -20,16 +20,17 @@ The data is downloaded from Kaggle's
 
 ## Requirements
 
-- Python 2.7 or Python 3.6
-- Jupyter Notebook
+- [Python 2.7](https://www.python.org/download/releases/2.7/) or [Python 3.x](https://www.python.org/downloads/)
+- [Jupyter Notebook](https://jupyter.org/install)
 
 ## Dependencies
 
 Choose the latest versions of the dependencies below:
 
-- Pandas
-- NumPy
-- Matplotlib
+- [Pandas](https://pandas.pydata.org)
+- [NumPy](https://numpy.org)
+- [Matplotlib](https://matplotlib.org)
+- [Seaborn](https://seaborn.pydata.org)
 
 ## License
 
