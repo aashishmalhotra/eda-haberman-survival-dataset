@@ -7,7 +7,7 @@ I also wrote an accompanied blog post. An accompanied Medium blog post has been 
 
 [insert image]
 
-<i>Caption: Here's a visualization of Haberman's Cancer Survival Data Set in Jupyter Notebook.</i>
+<i>Image Caption: Here's a visualization of Haberman's Cancer Survival Data Set in Jupyter Notebook.</i>
 
 ## Data Set
 
