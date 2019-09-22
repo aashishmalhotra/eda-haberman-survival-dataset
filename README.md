@@ -5,10 +5,6 @@ The complete notebook can be accessed [here]().
 
 I also wrote an accompanied blog post. An accompanied Medium blog post has been written and can be viewed here: [A Thorough Investigation of Haberman's Cancer Survival Dataset using Explorartory Data Analysis]()
 
-[insert image]
-
-src="1*s0dweU7HuJY3J1GJODDyDA.png"
-
 <p align="center">
   <img width="" height="" src="https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/1*s0dweU7HuJY3J1GJODDyDA.png">
 </p>
