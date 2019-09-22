@@ -7,6 +7,12 @@ I also wrote an accompanied blog post. An accompanied Medium blog post has been 
 
 [insert image]
 
+src="1*s0dweU7HuJY3J1GJODDyDA.png"
+
+<p align="center">
+  <img width="" height="" src="https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/1*s0dweU7HuJY3J1GJODDyDA.png">
+</p>
+
 <i>Image Caption: Here's a visualization of Haberman's Cancer Survival Data Set in Jupyter Notebook.</i>
 
 ## Data Set
