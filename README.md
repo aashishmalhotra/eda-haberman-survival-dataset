@@ -3,6 +3,8 @@ In this project, I did an Exploratory Data Analysis: in-depth analysis and visua
 
 I also wrote an accompanied blog post. An accompanied Medium blog post has been written and can be viewed here: [A Thorough Investigation of Haberman's Cancer Survival Dataset using Explorartory Data Analysis](). The complete notebook can be accessed [here]().
 
+
+
 <p align="center">
   <img width="80%" height="" src="https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/1*s0dweU7HuJY3J1GJODDyDA.png">
 </p>
