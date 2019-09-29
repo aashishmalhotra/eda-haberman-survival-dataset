@@ -35,9 +35,6 @@ When data set dowloaded, it can not be inserted in Neuroph in its original form.
 
 - 5 attributes 
 - 1 Feature
-- 4 There you
-- 5 Things 
-- 7 Stressful
 
 ## Data Source  
 
