@@ -5,7 +5,7 @@ I also wrote an accompanied blog post. An accompanied Medium blog post has been 
 
 The goal is to train the neural network to predict whether a patient survived after breast cancer surgery, when it is given other attributes as input. First thing that is needed in order to do that, is to have a data set. A data set can be found here. The name of the data set is Haberman's Survival Dataset (March 4, 1991). The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
 
-When data set dowloaded, it can not be inserted in Neuroph in its original form. For it to be able to help us with this classification problem, we need to normalize the data first. The type of neural network that will be used in this experiment is multi layer perceptron with backpropagation.
+When data set dowloaded, it can not be inserted in Neuroph in its original form. For it to be able to help us with this classification problem, we need to normalize the data first. The type of neural network that will be used in this experiment is multi layer perceptron with backpropagation.  
 
 
 
