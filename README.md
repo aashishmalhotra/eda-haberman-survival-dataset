@@ -11,7 +11,7 @@ When data set dowloaded, it can not be inserted in Neuroph in its original form.
 
 
 <p align="center">
-  <img width="80%" height="" src="https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/1*s0dweU7HuJY3J1GJODDyDA.png">
+  <img width="80%" height="" src="https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/temp-image.png">
 </p>
 
 <i>Image Caption: Here's a visualization of Haberman's Cancer Survival Data Set in Jupyter Notebook.</i>
