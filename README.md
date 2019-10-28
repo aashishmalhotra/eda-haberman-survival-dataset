@@ -8,7 +8,7 @@ The goal is to train the neural network to predict whether a patient survived af
 When data set dowloaded, it can not be inserted in Neuroph in its original form. For it to be able to help us with this classification problem, we need to normalize the data first. The type of neural network that will be used in this experiment is multi layer perceptron with backpropagation.    
 
 
-
+What else to add?
 
 <p align="center">
   <img width="80%" height="" src="https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/temp-image.png">
