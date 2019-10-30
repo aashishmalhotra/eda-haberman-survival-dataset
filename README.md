@@ -20,10 +20,7 @@ What else to add?
 
 - 5 attributes 
 - 1 Feature
-- I think this is private
-- Yup, I confirmed. 
 - I need to do better after work
-- I need to psycho analyze myself. Why am I not working? 
 
 The data set contains 306 instances, and number of attributes are 3. The first attribute is the age of patient, the second attribute is year of operation, the third attribute is number of positive axillary nodes detected. Each instance has one of 2 possible classes( the patient survived 5 years or longer or the patient died within 5 year).
 
