@@ -5,14 +5,11 @@ I also wrote an accompanied blog post. An accompanied Medium blog post has been 
 
 The goal is to practice exploring data and gathering informational details about the dataset. The details can be extracted to create a simple model. train the neural network to predict whether a patient survived after breast cancer surgery, when it is given other attributes as input. The name of the data set is Haberman's Survival Dataset (March 4, 1991). The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.   
 
-
-What else to add?
-
 <p align="center">
   <img width="80%" height="" src="https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/temp-image.png">
 </p>
 
-<i>Image Caption: Here's a visualization of Haberman's Cancer Survival Data Set in Jupyter Notebook.</i>
+<i>Image Caption: Here's a bivariate analysis of a Pair Plot for Haberman's Cancer Survival Data Set.</i>
 
 ## Data Set
 
