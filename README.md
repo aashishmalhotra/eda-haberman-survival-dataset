@@ -1,5 +1,5 @@
 # Haberman's Cancer Survival Data Set
-In this project, I completed an Exploratory Data Analysis: in-depth analysis and visualization on the Haberman Cancer Survival dataset. The dataset is collected at this [Kaggle repository](https://www.kaggle.com/gilsousa/habermans-survival-data-set). The goal is to predict the survival of patients after 5 years after their surgical procedure removing the anxiallaty nodes.      
+In this project, I completed an Exploratory Data Analysis: in-depth analysis and visualization on the Haberman Cancer Survival dataset. The dataset is collected at this [Kaggle repository](https://www.kaggle.com/gilsousa/habermans-survival-data-set). The goal is to predict the survival of patients 5 years after their surgical procedure removing the anxiallaty nodes.      
 
 I also wrote an accompanied blog post. An accompanied Medium blog post has been written and can be viewed here: [A Thorough Investigation of Haberman's Cancer Survival Dataset using Explorartory Data Analysis](). The complete notebook can be accessed [here]().   
 
