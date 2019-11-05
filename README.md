@@ -3,9 +3,7 @@ In this project, I completed an Exploratory Data Analysis: in-depth analysis and
 
 I also wrote an accompanied blog post. An accompanied Medium blog post has been written and can be viewed here: [A Thorough Investigation of Haberman's Cancer Survival Dataset using Explorartory Data Analysis](). The complete notebook can be accessed [here]().   
 
-The goal is to practice exploring data and gathering informational details about the dataset. The details can be extracted to create a simple model. train the neural network to predict whether a patient survived after breast cancer surgery, when it is given other attributes as input. First thing that is needed in order to do that, is to have a data set. A data set can be found here. The name of the data set is Haberman's Survival Dataset (March 4, 1991). The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.
-
-When data set dowloaded, it can not be inserted in Neuroph in its original form. For it to be able to help us with this classification problem, we need to normalize the data first. The type of neural network that will be used in this experiment is multi layer perceptron with backpropagation.    
+The goal is to practice exploring data and gathering informational details about the dataset. The details can be extracted to create a simple model. train the neural network to predict whether a patient survived after breast cancer surgery, when it is given other attributes as input. First thing that is needed in order to do that, is to have a data set. A data set can be found here. The name of the data set is Haberman's Survival Dataset (March 4, 1991). The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.   
 
 
 What else to add?
@@ -18,11 +16,10 @@ What else to add?
 
 ## Data Set
 
-- 5 attributes 
+- 3 attributes 
 - 1 Feature
-- I need to do better after work
 
-The data set contains 306 instances, and number of attributes are 3. The first attribute is the age of patient, the second attribute is year of operation, the third attribute is number of positive axillary nodes detected. Each instance has one of 2 possible classes( the patient survived 5 years or longer or the patient died within 5 year).
+The data set contains 306 instances, and the number of attributes are 3. The first attribute is the age of patient, the second  is year of operation and the third attribute is number of positive axillary nodes detected. Each instance has one of 2 possible classes (the patient survived 5 years or longer or the patient died within 5 year).
 
 Input attributes are:
 
