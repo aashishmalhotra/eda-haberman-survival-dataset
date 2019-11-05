@@ -36,7 +36,7 @@ The first three attributes have values from 0 to 100. The last attribute - class
 
 ## Data Source  
 
-The data is downloaded from Kaggle's 
+The data was downloaded from the Haberman Survival [Kaggle repository](https://www.kaggle.com/gilsousa/habermans-survival-data-set).
 
 ## Requirements
 
