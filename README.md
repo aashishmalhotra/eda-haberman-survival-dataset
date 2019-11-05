@@ -9,7 +9,7 @@ The goal is to practice exploring data and gathering informational details about
   <img width="80%" height="" src="https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/temp-image.png">
 </p>
 
-<p align="center"><i>Image Caption: Here's a bivariate analysis of a Pair Plot for Haberman's Cancer Survival Data Set.</i></p>
+<i>Image Caption: Here's a bivariate analysis of a Pair Plot for Haberman's Cancer Survival Data Set.</i>
 
 ## Data Set
 
