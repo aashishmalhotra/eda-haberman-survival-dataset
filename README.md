@@ -1,7 +1,7 @@
 # Haberman's Cancer Survival Data Set
 In this project, I completed an Exploratory Data Analysis: in-depth analysis and visualization on the Haberman Cancer Survival dataset. The dataset is collected at this [Kaggle repository](https://www.kaggle.com/gilsousa/habermans-survival-data-set). The goal is to predict the survival of patients 5 years after their surgical procedure removing the anxiallaty nodes.      
 
-I also wrote an accompanied blog post. An accompanied Medium blog post has been written and can be viewed here: [A Thorough Investigation of Haberman's Cancer Survival Dataset using Explorartory Data Analysis](). The complete notebook can be accessed [here](https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/eda-haberman-dataset.ipynb).
+I also wrote an accompanied blog post. An accompanied Medium blog post has been written and can be viewed here: [How to Create a Cancer Survival Prediction Model with EDA and Haberman’s Dataset ](). The complete notebook can be accessed [here](https://github.com/jessxphil/eda-haberman-survival-dataset/blob/master/eda-haberman-dataset.ipynb).
 
 The utlimate goal is to practice exploring data and gathering informational details about the dataset. The details can be extracted to create a simple model, or train the neural network to predict whether a patient survived after breast cancer surgery, when it is given other attributes as input. The name of the data set is Haberman's Survival Dataset (March 4, 1991). The dataset contains cases from a study that was conducted between 1958 and 1970 at the University of Chicago's Billings Hospital on the survival of patients who had undergone surgery for breast cancer.   
 
