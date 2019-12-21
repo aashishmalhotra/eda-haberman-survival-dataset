@@ -40,7 +40,7 @@ The data was downloaded from the Haberman Survival [Kaggle repository](https://w
 - [Python 2.7](https://www.python.org/download/releases/2.7/) or [Python 3.6](https://www.python.org/downloads/)
 - [Jupyter Notebook](https://jupyter.org/install)
 
-## Dependencies
+## Dependencies  
 
 Choose the latest versions of the dependencies below:
 
